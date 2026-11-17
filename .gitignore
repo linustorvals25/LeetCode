@@ -1,0 +1,8 @@
+# Configuración local de Visual Studio Code
+.vscode/
+
+# Archivos temporales de Python
+*.pyc
+
+# Archivos binarios de C++
+*.out
